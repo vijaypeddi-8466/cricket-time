@@ -1,2 +1,2 @@
-# cricket-time
+# cricket-team
 cricket time
